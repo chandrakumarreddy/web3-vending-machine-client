@@ -1,0 +1,24 @@
+.container {
+  display: grid;
+  row-gap: 16px;
+  padding: 24px 48px;
+}
+
+.donuts p {
+  margin-bottom: 4px;
+}
+
+.addBtn {
+  margin-top: 20px;
+}
+
+.restock {
+  all: unset;
+  cursor: pointer;
+  border: 1px solid #ccc;
+  padding: 10px 20px;
+  width: 100px;
+  text-align: center;
+  border-radius: 8px;
+  background-color: beige;
+}
